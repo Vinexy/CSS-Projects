@@ -1,0 +1,68 @@
+header {
+    text-align: center;
+}
+
+nav {
+    text-align: center;
+    background-color: rgb(226, 220, 211);
+    height: 72px;
+}
+
+p {
+    text-align: center;
+    font-size: larger;
+}
+
+.google {
+    width: 300px;
+    
+    
+}
+
+div {
+    float: left;
+    background-color: aquamarine;
+    
+}
+
+footer {
+    text-align: center;
+}
+.div1{
+    width: 40%;
+    text-align:center;
+    background-color: rgb(11, 233, 233);
+    height: 80px;
+
+}
+.div2 {
+
+    margin-left: 0.3%;
+    width: 14%;
+    text-align:center;
+    background-color: rgb(13, 214, 214);
+    height: 80px;
+}
+
+.div3 {
+
+    margin-left: 0.3%;
+    width: 45.4%;
+    text-align:center;
+    background-color: rgb(14, 175, 175);
+    height: 80px;
+}
+
+.first{
+    display: inline-block;
+    padding-top: 2%;
+}
+
+section {
+    padding-top: 0.4%;
+}
+
+
+
+
+
